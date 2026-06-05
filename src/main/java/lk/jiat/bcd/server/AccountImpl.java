@@ -1,8 +1,6 @@
 package lk.jiat.bcd.server;
-
 import BankingApp.AccountPOA;
 import BankingApp.InsufficientBalance;
-
 import java.util.HashMap;
 
 public class AccountImpl extends AccountPOA {
